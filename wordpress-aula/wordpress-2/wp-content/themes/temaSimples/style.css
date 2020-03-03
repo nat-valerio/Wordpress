@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/*
+    Theme Name: Cinema
+    Author: Natalia
+*/
+
+ul{
+    list-style-type: none;
+    height: 100px;
+}
+
+a{
+    list-style-type: none;
+}

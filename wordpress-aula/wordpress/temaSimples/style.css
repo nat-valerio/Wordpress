@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*
+Theme Name: Tema Simples
+Author: TI33
+*/
+
+body{
+    background-color: #ccc;
+}
+
+header{
+    background-color: #fff;
+    width: 100%;
+}
